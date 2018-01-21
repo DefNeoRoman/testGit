@@ -9,6 +9,7 @@ public class Main {
         System.out.println("третье сообщение в ветке мастер");
         System.out.println("четвертое сообщение в ветке мастер");
         System.out.println("пятое сообщение в ветке мастер");
+        System.out.println("шестое сообщение в ветке мастер");
 
     }
     public void firstMethod(){
