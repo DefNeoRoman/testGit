@@ -8,6 +8,7 @@ public class Main {
         System.out.println("third");
         System.out.println("сообщение в br10");
         System.out.println("second сообщение в br10");
+        System.out.println("third сообщение в br10");
 
     }
     public void firstMethod(){
