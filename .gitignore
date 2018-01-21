@@ -1,7 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
 .idea/
+<<<<<<< HEAD
 out/
 target/
 .gradle/
 build/
+=======
+
+target/
+>>>>>>> origin/branch2
