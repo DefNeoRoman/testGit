@@ -9,6 +9,7 @@ public class Main {
         System.out.println("сообщение в br10");
         System.out.println("second сообщение в br10");
         System.out.println("third сообщение в br10");
+        System.out.println("сообщение после удаления ветки");
 
     }
     public void firstMethod(){
