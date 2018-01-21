@@ -6,6 +6,7 @@ public class Main {
         String  filename = "34.ctb";
         System.out.println("Сообщение в ветке br3");
         System.out.println("второе Сообщение в ветке br3");
+        System.out.println("третье Сообщение в ветке br3");
 
 
     }
