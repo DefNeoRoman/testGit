@@ -3,16 +3,13 @@ package com;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("сообщение в мастер");
-        System.out.println("second message в мастер");
-        System.out.println("third");
-        System.out.println("сообщение в br10");
-        System.out.println("second сообщение в br10");
-        System.out.println("third сообщение в br10");
-        System.out.println("сообщение после удаления ветки");
+       Staff[]staffers =
+           {new Staff("Вася","middle",400,40),
+            new Staff("Вова","senior",4000,45)};
+       for(int i=0;i<staffers.length;i++){
+           System.out.println(staffers[i].toString());
+       }
 
     }
-    public void firstMethod(){
 
-    }
 }
