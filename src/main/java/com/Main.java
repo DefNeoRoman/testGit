@@ -8,6 +8,7 @@ public class Main {
         System.out.println("third message в мастер");
         System.out.println("four message в мастер");
         System.out.println("five message в мастер");
+        System.out.println("six message в мастер from B1");
         System.out.println("third");
         System.out.println("сообщение в br10");
         System.out.println("second сообщение в br10");
