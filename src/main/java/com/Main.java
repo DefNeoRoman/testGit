@@ -3,12 +3,18 @@ package com;
 public class Main {
 
     public static void main(String[] args) {
-       Staff[]staffers =
-           {new Staff("Вася","middle",400,40),
-            new Staff("Вова","senior",4000,45)};
-       for(int i=0;i<staffers.length;i++){
-           System.out.println(staffers[i].toString());
-       }
+        System.out.println("сообщение в мастер");
+        System.out.println("second message в мастер");
+        System.out.println("third message в мастер");
+        System.out.println("four message в мастер");
+        System.out.println("five message в мастер");
+        System.out.println("six message в мастер from B1");
+        System.out.println("seven message в мастер from B2");
+        System.out.println("third");
+        System.out.println("сообщение в br10");
+        System.out.println("second сообщение в br10");
+        System.out.println("third сообщение в br10");
+        System.out.println("сообщение после удаления ветки");
 
     }
 
