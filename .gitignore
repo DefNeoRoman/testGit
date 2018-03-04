@@ -1,6 +1,7 @@
 /.idea/
 .idea/
 out/
+*.xml
 .gradle/
 build/
 target/
