@@ -6,6 +6,10 @@ public class NewClass {
         System.out.println("secong commit in home B2");
         System.out.println("message  in master");
         System.out.println("commmit in b3");
+        System.out.println("commmit in b3");
+        System.out.println("commmit in b3");
+        System.out.println("commmit in b3");
+        System.out.println("commmit in b3");
     }
 
 }
